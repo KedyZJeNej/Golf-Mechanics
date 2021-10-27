@@ -1,0 +1,5 @@
+This is not a script!
+List:
+Player(Ball.cs , SpriteRenderer , Rigidbody2D, CircleCollider2D)
+Platform
+Game(Game.cs)
